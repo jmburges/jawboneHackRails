@@ -8,6 +8,7 @@ gem 'rails', '3.2.14'
 gem 'foursquare_rails_generators', :git => 'https://github.com/pierrevalade/foursquare-rails-generators.git'
 gem 'sqlite3'
 
+gem "figaro"
 gem 'omniauth'
 gem 'omniauth-foursquare'
 gem 'omniauth-jawbone', :git => "https://github.com/ruthienachmany/omniauth-jawbone.git"
